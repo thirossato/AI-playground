@@ -1,0 +1,56 @@
+{
+    "prompt": "Gere uma lista de 10 ideias rentáveis na impressão 3d",
+    "temperature": 0.9,
+    "ideas": [
+        {
+            "id": 1,
+            "idea": "Prototipagem rápida para startups e inventores",
+            "description": "Oferecer serviços de impressão 3D para criar protótipos funcionais de produtos novos rapidamente."
+        },
+        {
+            "id": 2,
+            "idea": "Peças personalizadas para automóveis antigos",
+            "description": "Produzir componentes sob medida para carros antigos que não são mais fabricados."
+        },
+        {
+            "id": 3,
+            "idea": "Joias e acessórios personalizados",
+            "description": "Criar joias únicas e acessórios personalizados utilizando impressão 3D para designs exclusivos."
+        },
+        {
+            "id": 4,
+            "idea": "Protótipos para a indústria médica",
+            "description": "Desenvolver modelos anatômicos para planejamento cirúrgico e treinamento médico."
+        },
+        {
+            "id": 5,
+            "idea": "Decoração personalizada para eventos",
+            "description": "Criar itens decorativos customizados para casamentos, festas e eventos corporativos."
+        },
+        {
+            "id": 6,
+            "idea": "Produtos personalizados para pets",
+            "description": "Fabricar acessórios e brinquedos personalizados para animais de estimação."
+        },
+        {
+            "id": 7,
+            "idea": "Componentes para drones e robótica",
+            "description": "Produzir peças leves e específicas para drones e robôs customizados."
+        },
+        {
+            "id": 8,
+            "idea": "Ferramentas e gabaritos personalizados para indústria",
+            "description": "Criar ferramentas específicas para processos industriais que otimizem a produção."
+        },
+        {
+            "id": 9,
+            "idea": "Brinquedos educativos customizados",
+            "description": "Desenvolver brinquedos que incentivem o aprendizado e adaptem-se às necessidades educacionais."
+        },
+        {
+            "id": 10,
+            "idea": "Réplicas e miniaturas para colecionadores",
+            "description": "Impressão de réplicas detalhadas de objetos históricos, veículos ou obras de arte para colecionadores."
+        }
+    ]
+}

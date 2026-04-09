@@ -1,0 +1,46 @@
+{
+    "prompt": "Gere uma lista de 10 ideias rentáveis na impressão 3d",
+    "temperature": 0.1,
+    "ideas": [
+        {
+            "id": 1,
+            "descricao": "Produção de protótipos personalizados para startups e engenheiros"
+        },
+        {
+            "id": 2,
+            "descricao": "Fabricação de peças sob medida para reparos industriais"
+        },
+        {
+            "id": 3,
+            "descricao": "Criação de acessórios personalizados para smartphones e gadgets"
+        },
+        {
+            "id": 4,
+            "descricao": "Desenvolvimento de joias e bijuterias customizadas"
+        },
+        {
+            "id": 5,
+            "descricao": "Produção de miniaturas e modelos para arquitetura e design"
+        },
+        {
+            "id": 6,
+            "descricao": "Fabricação de brinquedos educativos e personalizados"
+        },
+        {
+            "id": 7,
+            "descricao": "Criação de ferramentas e utensílios personalizados para hobbies e artesanato"
+        },
+        {
+            "id": 8,
+            "descricao": "Produção de peças para drones e robótica"
+        },
+        {
+            "id": 9,
+            "descricao": "Desenvolvimento de próteses e órteses customizadas"
+        },
+        {
+            "id": 10,
+            "descricao": "Fabricação de itens decorativos e personalizados para eventos"
+        }
+    ]
+}
